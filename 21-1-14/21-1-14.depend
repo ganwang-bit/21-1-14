@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610592361 source:c:\users\1\desktop\c”Ô—‘\21-1-14\src\m.cpp
+	"m.h"
+
+1610606370 c:\users\1\desktop\c”Ô—‘\21-1-14\include\m.h
+
+1610606323 source:c:\users\1\desktop\c”Ô—‘\21-1-14\src\number.cpp
+	"number.h"
+
+1610606568 c:\users\1\desktop\c”Ô—‘\21-1-14\include\number.h
+
+1610607907 source:c:\users\1\desktop\c”Ô—‘\21-1-14\main.cpp
+	<iostream>
+

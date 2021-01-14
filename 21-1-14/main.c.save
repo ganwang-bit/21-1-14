@@ -1,0 +1,29 @@
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    printf("Hello world!\n");
+//    return 0;
+//}
+#include<iostream>
+
+using namespace std;
+
+class T
+{
+public:
+    T();
+    void show();
+    void i(int money);
+private:
+    const int PRICE;
+    int balance;
+    int total;
+};
+
+int main()
+{
+    
+    return 0;
+}
